@@ -1,0 +1,34 @@
+a
+{
+    text-decoration: none;
+    color: white;
+}
+@media only screen and (max-width: 988px) {
+    .navbar-nav li {
+      margin-bottom: 15px; 
+    }
+  }
+  
+    .navbar-toggler {
+      display: block;
+      position: sticky;
+      top: 15px;
+      right: 15px;
+      z-index: 2;
+    }
+  
+    .navbar-nav {
+      list-style: none;
+      text-align: center;
+    }
+  
+  
+    .navbar-nav a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+    }
+  
+  
+  
+    
